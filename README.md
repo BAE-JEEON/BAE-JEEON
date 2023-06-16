@@ -1,4 +1,9 @@
 ### Hi there 👋
+Hi, I’m Je-Eon Bae, a Ph.D.student in Artificial Intelligence at Postech.
+
+My goal is to become an engineer who maximizes economic and societal value through machine learning. To achieve this goal, I am researching to make machine learning technology more accessible to people from all backgrounds.
+
+Currently, my research is focused on two specific areas: Data-efficient Learning and Interpretable neural networks.
 
 <!--
 **BAE-JEEON/BAE-JEEON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
